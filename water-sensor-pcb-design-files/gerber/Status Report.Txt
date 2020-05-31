@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [water-sensor-pcb.PrjPcb]
+   Generated File[water-sensor-pcb.TXT]
+   Generated File[water-sensor-pcb.LDP]
+   Generated File[water-sensor-pcb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:23:22 AM On 2020-04-19

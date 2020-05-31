@@ -1,0 +1,3 @@
+This exercise was a unique experience that I likely would not have had the opportunity to do 
+if not a part of the Advanced Hydrology course.  It was a great way to incorporate Hydrological
+Modelling and circuit building.

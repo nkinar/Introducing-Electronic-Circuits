@@ -1,0 +1,4 @@
+I thought that the circuit activity was fun.  I have never built a circuit before &
+was a little nervous to, but this was a nice, easy introduction to it.  It's
+cool to be able to have your own circuit that measures actual values
+useful to you that you built yourself.
