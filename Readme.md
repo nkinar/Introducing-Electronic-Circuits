@@ -19,7 +19,8 @@ ESD foam used to protect IC pins.
 <https://www.uline.com/>
 
 * At the time of writing, an educational license is available from Altium and
-the DFM Now! software can be downloaded as a no-cost license.
+the DFM Now! software can be downloaded as a no-cost license.  See the table
+below for further details.
 
 * All circuit board designs are licensed under the open hardware CERN OHL license:
 http://cern.ch/cern-ohl
